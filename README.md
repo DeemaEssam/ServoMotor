@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 ***Algorithm to move the Servo Motor as the Robot legs***
 1. Serial Communication Setup
    - Open the serial port at a baud rate of 9600.
